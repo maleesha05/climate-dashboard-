@@ -326,3 +326,4 @@ with col_f2:
     st.markdown("**📚 Module:** 5DATA004C")
 with col_f3:
     st.markdown("**📊 Data:** World Bank via HDX | 1960–2024")
+# v1.0 - Final tested and deployed version
